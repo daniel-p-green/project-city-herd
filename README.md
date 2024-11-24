@@ -1,6 +1,8 @@
 # Project: City Herd
 ![Project City Herd Logo](src/lib/trpc/brand/Project%20City%20Herd%20-%20dk-%20proxima.svg)
 
+<img src="src/lib/trpc/@brand/project-city-herd_cv.webp" alt="Project City Herd CV" width="650">
+
 ## Mission
 **“Lead. Herd. Ship.”**
 Empower cities starting with Austin, TX as MVP to build single-source-of-truth, Meta Llama-powered chatbots that make local services and information accessible to everyone—regardless of language, technical expertise, or unique city needs
