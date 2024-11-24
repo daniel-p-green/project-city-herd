@@ -1,7 +1,6 @@
 # Project: City Herd
-![Project City Herd Logo](src/lib/trpc/brand/Project%20City%20Herd%20-%20dk-%20proxima.svg)
 
-<img src="src/lib/trpc/@brand/project-city-herd_cv.webp" alt="Project City Herd CV" width="650">
+<img src="https://github.com/daniel-p-green/project-city-herd/blob/main/project-city-herd_meta-llama-impact-2024/src/lib/trpc/brand/project-city-herd_CV-Logo-llama-Enhanced-SR-Edit.webp" alt="Project City Herd ProfPic" width="650">
 
 ## Mission
 **“Lead. Herd. Ship.”**
