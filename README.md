@@ -1,4 +1,5 @@
 # Project: City Herd
+![Project City Herd Logo](src/lib/trpc/brand/Project%20City%20Herd%20-%20dk-%20proxima.svg)
 
 ## Mission
 **“Lead. Herd. Ship.”**
